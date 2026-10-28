@@ -1,0 +1,8 @@
+{
+  "name": "IOT Ruangan",
+  "description": "Platform Digital Twin IoT Ruangan Cerdas 3D/2D interaktif dengan telemetri sensor real-time, kontrol aktuator cerdas, simulasi lingkungan & automasi IF-THEN, serta analitik energi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
